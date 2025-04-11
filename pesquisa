@@ -2,11 +2,16 @@ Fontes de pesquisa:
 
 Tutoriais microcontrolador:
 https://www.hackster.io/najad/tuya-iot-with-esp8266-and-arduino-ccc75e
+https://electronicsinnovation.com/getting-started-with-tuya-iot-platform-how-to-deploy-a-thing-on-tuya-smart-iot-platform/
 
 Tutoriais sensores:
 https://newbiely.com/tutorials/esp8266/esp8266-dht11
 https://blog.eletrogate.com/sensores-dht11-dht22/
 https://www.eletrogate.com/sensor-de-gas-mq-2-inflamavel-e-fumaca
 https://www.electromaker.io/project/view/blink-an-led-on-esp32-board-with-tuya-link-sdk
+
+Tuya:
+https://developer.tuya.com/en/docs/iot/MQTT-protocol?id=Kb65nphxrj8f1
+https://www.hackster.io/mech/tuya-mqtt-with-esp32-434ad6#team
 
 
