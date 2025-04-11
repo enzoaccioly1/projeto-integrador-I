@@ -10,8 +10,8 @@ https://blog.eletrogate.com/sensores-dht11-dht22/
 https://www.eletrogate.com/sensor-de-gas-mq-2-inflamavel-e-fumaca
 https://www.electromaker.io/project/view/blink-an-led-on-esp32-board-with-tuya-link-sdk
 
-Tuya:
-https://developer.tuya.com/en/docs/iot/MQTT-protocol?id=Kb65nphxrj8f1
-https://www.hackster.io/mech/tuya-mqtt-with-esp32-434ad6#team
-
+Tuya: A Tuya é uma plataforma de software que oferece soluções de Internet das Coisas (IoT) para conectar dispositivos inteligentes à nuvem e a outros dispositivos. A Tuya fornece uma ampla gama de soluções de IoT, incluindo software, hardware, algoritmos de aprendizagem de máquina e serviços em nuvem.
+Tuya MQTT Standard Protocol: https://developer.tuya.com/en/docs/iot/MQTT-protocol?id=Kb65nphxrj8f1
+ESP32 Tya MQTT(Compativel com ESP8266): https://www.hackster.io/mech/tuya-mqtt-with-esp32-434ad6#team
+ESP8266 + Arduino: https://www.hackster.io/najad/tuya-iot-with-esp8266-and-arduino-ccc75e
 
