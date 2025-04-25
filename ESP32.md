@@ -1,7 +1,5 @@
 # 🎛️ | ESP32
 
----
-
 ## ▶️ | Principais características
 
 - Processador: Dual-core, até 240 MHz
