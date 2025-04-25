@@ -15,11 +15,11 @@ O projeto tem como principal foco o envio e coleta de dados a partir de um **ESP
 
 ## 📖 | Documentação
 
-- [ESP32]()
+- [ESP32](ESP32.md)
 - [ESP RainMaker](ESPRainMaker.md)
 - [Arduino IDE (configuração)](Arduino.md)
-- [DHT11]()
-- [MQ-2]()
+- [DHT11](DHT11.md)
+- [MQ-2](MQ-2.md)
 
 ## 🪛 | Protótipo 
 
