@@ -1,7 +1,7 @@
 # 💨 | MQ-2
 
 <kbd>
-  <img src = "https://circuits-diy.com/wp-content/uploads/2021/10/MQ2-smoke-sensor-pinout.jpg">
+  <img src = "https://circuitdigest.com/sites/default/files/inlineimages/u4/MQ2-Gas-Sensor-Pinout.jpg">
 </p>
   <p align = center>
     Pinagem MQ-2
