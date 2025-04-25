@@ -1,6 +1,6 @@
 # Projeto Integrador I - _ESP32 com ESP Rainmaker_
 
-O projeto tem como principal foco o envio e coleta de dados a partir de um microcontrolador (**ESP32**) e sensores, utilizando o sistema **ESP RainMaker** como meio de controle e monitoramento.
+O projeto tem como principal foco o envio e coleta de dados a partir de um **ESP32** e sensores, utilizando o sistema **ESP RainMaker** como meio de controle e monitoramento.
 
 ---
 
