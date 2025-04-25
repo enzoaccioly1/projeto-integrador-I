@@ -1,7 +1,7 @@
 # 🎛️ | ESP32
 
 <kbd>
-  <img src = "img/esp32.jpg">
+  <img src = "img/esp32.png">
 </p>
   <p align = center>
     Pinagem ESP32
