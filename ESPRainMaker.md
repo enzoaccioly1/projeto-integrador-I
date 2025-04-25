@@ -16,4 +16,6 @@ ESP RainMaker é um sistema IoT com o backend em nuvem construído utilizando a 
 
 ---
 
-**Obs.**: O limite de envio de mensagens no plano grátis é de 25000.
+## ⚠️ | Obs.: 
+- O limite de envio de mensagens no plano grátis é de 25000.
+- O número recomendado de dispositivos é de 5.
