@@ -1,7 +1,7 @@
 # 🌡️ | DHT11
 
 <kbd>
-  <img src = "https://newbiely.com/images/tutorial/dht11-temperature-humudity-sensor-pinout.jpg">
+  <img src = "img/dht11.jpg">
 </p>
   <p align = center>
     Pinagem DHT11
