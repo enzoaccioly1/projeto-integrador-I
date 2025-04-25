@@ -1,7 +1,7 @@
 # 💨 | MQ-2
 
 <kbd>
-  <img src = "https://circuitdigest.com/sites/default/files/inlineimages/u4/MQ2-Gas-Sensor-Pinout.jpg">
+  <img src = "img/mq-2.jpg">
 </p>
   <p align = center>
     Pinagem MQ-2
