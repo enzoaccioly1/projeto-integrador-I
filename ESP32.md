@@ -1,7 +1,7 @@
 # 🎛️ | ESP32
 
 <kbd>
-  <img src = "https://www.upesy.com/cdn/shop/files/doc-esp32-pinout-reference-wroom-devkit.png">
+  <img src = "img/esp32.jpg">
 </p>
   <p align = center>
     Pinagem ESP32
