@@ -7,7 +7,7 @@ ESP RainMaker é um sistema IoT com o backend em nuvem construído utilizando a 
 ## 📡 | Comunicação
 
 <kbd>
-  <img src = "https://github.com/user-attachments/assets/af4d766c-c9e4-4beb-85a0-9939918499e5">
+  <img src = "img/rainmaker.png">
 </p>
   <p align="center">
     Funcionamento da comunicação com ESP RainMaker
