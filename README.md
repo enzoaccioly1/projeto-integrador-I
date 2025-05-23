@@ -16,7 +16,6 @@ O projeto tem como principal foco o envio e coleta de dados a partir de um **ESP
 ## 📖 | Documentação
 
 - [ESP32](ESP32.md)
-- [bizu](bizu.md)
 - [ESP RainMaker](ESPRainMaker.md)
 - [Arduino IDE (configuração)](Arduino.md)
 - [DHT11](DHT11.md)
