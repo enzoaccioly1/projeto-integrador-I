@@ -17,7 +17,7 @@ Para a ambientação do projeto foi utilizado o Visual Studio Code (VSCode) junt
 
 
   <kbd>
-  <img src = "img/esp32.png">
+  <img src = "img/ESP-IDF_DOWNLOAD.png">
 </p>
   <p align = center>
     Pinagem ESP32
