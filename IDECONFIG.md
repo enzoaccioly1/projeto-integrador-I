@@ -58,7 +58,6 @@ Depois de instalar, uma aba de configuração deve aparecer. Caso não aconteça
   - Atribua a cada um deles os respectivos caminhos e clique em configure tools. Os caminhos ser iguais ao da imagem considerando que os passos anteriores tenham sido cumpridos.
 
   - Após isso, espera-se que um conjunto de ferramentas sejam instaladas no seu sistema e um icone apareça na barra no canto esquerdo da ide.
-
     
    <p align = center>
     <img src = "img/IDE_CONFIG_END.png">
@@ -74,21 +73,27 @@ Depois de instalar, uma aba de configuração deve aparecer. Caso não aconteça
 
 ### Muita Atenção nas proximas instruções! ⚠️⚠️⚠️  
 
-  Visando o funcionamento amplo do projeto, os arquivos disponibilizados para download foram configurados para buscar bibliotecas e itens importantes com base em variáveis de sistema do seu computador. Sendo assim, qualquer descuido na configuração dessas variáveis e afins implica diretamente ao não funcionamento do projeto!
+  Visando o funcionamento amplo do projeto, os arquivos disponibilizados para download foram configurados para buscar bibliotecas e itens importantes com base em variáveis de ambiente do sistema do seu computador. Sendo assim, qualquer descuido na configuração dessas variáveis e afins implica diretamente ao não funcionamento do projeto!
   
 ## 3. Configuração para desenvolvimento do ESPRainMaker
 
-  Neste repositório foi disponibilizada um zip chamado "RainMaker" para download (colocar aq o link), depois de descompactar pegue a pasta e coloque em : "C:\Espressif\frameworks\esp-idf-v5.4.1\examples".
+  #### Alocação de pastas
+  
+  Neste repositório foi disponibilizada um zip do projeto chamado "RainMaker" para download (colocar aq o link), depois de descompactar pegue a pasta e coloque em : "C:\Espressif\frameworks\esp-idf-v5.4.1\examples".
+
+  Após isso, baixe o zip "lib_sensors", descompacte-o e pegue todas as pastas dentro da pasta de mesmo nome e coloque em: "C:\Espressif\frameworks\esp-idf-v5.4.1\components".
+
+  #### Implementação das variáveis de ambiente
+
+  Acesse o menu de variáveis de ambiente via win+r e depois digite na aba que aparecer: sysdm.cpl ou pesquise na aba de pesquisa do windows. Posteriormente você vai poder visualizar as variaveis de sistema e usuário no seu computador.
+  
+   <p align = center>
+    <img src = "img/VARIAVEIS_DE_AMBIENTE.png">
+  </p>
+
+  Agora faça 2 variaveis de <u> sistema </u> com os nomes IDF_PATH e RMAKER_PATH e adicione os seus diretórios correspondentes comom na imagem.
   
 
-## 3. Selecionar a 'Board'
-Tools > Board > esp32 > "ESP32 Dev Module"
-
-## 4. Selecionar o 'Partition Scheme'
-Tools > Partition Scheme > RainMaker 4MB No OTA
-
-## 5. Selecionar a 'Port'
-Selecione a 'port' por onde o ESP32 está conectado em Tools > Port 
 
 ## 6. Possíveis erros
 Certifique-se de que o Windows ou seu sistema operacional reconhece a porta conectada do ESP32 (mais informações em https://www.reddit.com/r/esp32/comments/11pmedy/issue_uploading_to_esp32/)
