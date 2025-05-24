@@ -1,10 +1,10 @@
 # 🔦 | LDR
 
 <kbd>
-  <img src = "">
+  <img src = "img/LDR.png">
 </p>
   <p align = center>
-    Pinagem LDR
+    Conexão LDR
   </p>
 </kbd>
 
