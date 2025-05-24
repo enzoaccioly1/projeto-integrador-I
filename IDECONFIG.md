@@ -6,7 +6,7 @@ Para a ambientação do projeto foi utilizado o Visual Studio Code (VSCode) junt
   
   - As ferramentas foram utilizadas no sistema operacional Windows, mais especificamente no Windows 11 nas versões disponíveis entre os meses de Março e Junho de 2025;
   - Nenhum dos diretórios deve ter caracteres especiais;
-  - Os itens necessários para o funcionamento integral das ferramentas devem intrinsicamente instalados/colocados nas pastas indicadas;
+  - Os itens necessários para o funcionamento integral das ferramentas devem serintrinsicamente instalados/colocados nas pastas indicadas;
     
   Desse modo, o funcionamento do projeto é garantido tendo em vista as restrições acima em vigência no periodo de desenvolvimento citado.
 
@@ -92,7 +92,7 @@ Para a ambientação do projeto foi utilizado o Visual Studio Code (VSCode) junt
   </p>
 
   - Agora faça 2 variaveis de "sistema" com os nomes IDF_PATH e RMAKER_PATH e adicione os seus diretórios correspondentes como na imagem acima;
-  - Aplique as suas alterações e reinicie o seu sistema.
+  - Aplique as suas alterações e reinicie o seu computador.
 
   Com isso, o projeto está pronto para ser executado.
   
