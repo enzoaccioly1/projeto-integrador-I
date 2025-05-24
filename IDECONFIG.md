@@ -26,7 +26,7 @@ Para a ambientação do projeto foi utilizado o Visual Studio Code (VSCode) junt
 
 ## 2. Instalação da extensão na IDE 
 
-- Na aba "Extensions" do VSCode, procurar por "ESP-IDF" e instalar;
+- Na aba **Extensions** do VSCode, procurar por **ESP-IDF** e instalar;
 
 <p align = center>
   <img src = "img/EXTENSAO_VSCODE.png">
