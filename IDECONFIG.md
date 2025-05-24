@@ -23,8 +23,6 @@ Para a ambientação do projeto foi utilizado o Visual Studio Code (VSCode) junt
 ## 1. Instalar o VSCode 
 
   A instalação da IDE não segue um criterio especifico para o seu funcionamento posteriormente. Assim, você pode simplesmente baixar pelo site: (https://code.visualstudio.com) a IDE e depois instalar onde achar oportuno.
-  
-https://www.arduino.cc/en/software/
 
 ## 2. Instalação da extensão na IDE 
 
@@ -67,18 +65,21 @@ Depois de instalar, uma aba de configuração deve aparecer. Caso não aconteça
   </p>
     
   Por fim, a sua IDE está pronta para utilizar as ferramentas de desenvolvimento padrão da espressif no projeto.
-
+  
 ### Recomendação | ⏭️
 
   A espressif tem um diretorio no github onde eles disponibilizam ,junto a um tutorial de instalação, uma explicação de cada atalho da extensão que você pode acessar neste link para mais dúvidas(https://github.com/espressif/vscode-esp-idf-extension/blob/master/README.md)
 
+##
+
 ### Muita Atenção nas proximas instruções! ⚠️⚠️⚠️  
 
-  Visando o funcionamento amplo do projeto, os arquivos disponibilizados para download foram configurados para buscar bibliotecas e itens importantes com base em variáveis de sistema do seu computador. Sendo assim, qualquer descuitdo na configuração dessas variáveis implica ao não funcionamento do projeto!
+  Visando o funcionamento amplo do projeto, os arquivos disponibilizados para download foram configurados para buscar bibliotecas e itens importantes com base em variáveis de sistema do seu computador. Sendo assim, qualquer descuido na configuração dessas variáveis e afins implica diretamente ao não funcionamento do projeto!
   
 ## 3. Configuração para desenvolvimento do ESPRainMaker
 
-Pesquise por "**esp32**" e instale em Tools > Board > Board Manager
+  Neste repositório foi disponibilizada um zip chamado "RainMaker" para download (colocar aq o link), depois de descompactar pegue a pasta e coloque em : "C:\Espressif\frameworks\esp-idf-v5.4.1\examples".
+  
 
 ## 3. Selecionar a 'Board'
 Tools > Board > esp32 > "ESP32 Dev Module"
