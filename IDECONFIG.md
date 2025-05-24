@@ -18,7 +18,7 @@ Para a ambientação do projeto foi utilizado o Visual Studio Code (VSCode) junt
   <img src = "img/ESP-IDF_DOWNLOAD.png">
 </p>
   
-  Na instalação, selecione o diretorio de instalação como o seu  "DISCO LOCAL C". O resultado esperado é a pasta "Espressif" aparecer junto a outras como: "Arquivo Programas" ,"Arquivo Programas(x86)" e etc;
+  Na instalação, selecione o diretorio de instalação como o seu  "DISCO LOCAL C". O resultado esperado é a pasta **Espressif** aparecer junto a outras como: "Arquivo Programas" ,"Arquivo Programas(x86)" e etc;
   
 ## 1. Instalar o VSCode 
 
@@ -32,7 +32,7 @@ Para a ambientação do projeto foi utilizado o Visual Studio Code (VSCode) junt
   <img src = "img/EXTENSAO_VSCODE.png">
 </p>
 
-- Depois de instalar, uma aba de configuração deve aparecer. Caso não aconteça, busque por ">Configure ESP-IDF Extension" na barra de pesquisa da IDE localizada no centro da barra superior da interface.
+- Depois de instalar, uma aba de configuração deve aparecer. Caso não aconteça, busque por **>Configure ESP-IDF Extension** na barra de pesquisa da IDE localizada no centro da barra superior da interface.
 
   <p align = center>
     <img src = "img/CONFIGURE_IDE.png">
@@ -43,7 +43,7 @@ Para a ambientação do projeto foi utilizado o Visual Studio Code (VSCode) junt
 
   Agora na aba de configuração:
 
-- Selecione a opção "Advanced";
+- Selecione a opção **Advanced**;
 
   <p align = center>
     <img src = "img/MENU_EXTENSION_CONFIG.png">
@@ -85,7 +85,7 @@ Para a ambientação do projeto foi utilizado o Visual Studio Code (VSCode) junt
 
   #### Implementação das variáveis de ambiente
 
-  - Acesse o menu de variáveis de ambiente via win+r e depois digite na aba que aparecer: sysdm.cpl ou pesquise na aba de pesquisa do windows. Posteriormente você vai poder visualizar as variaveis de sistema e usuário no seu computador;
+  - Acesse o menu de variáveis de ambiente via **win+r** e depois digite na aba que aparecer: **sysdm.cpl** ou pesquise na aba de pesquisa do windows. Posteriormente você vai poder visualizar as variaveis de sistema e usuário no seu computador;
   
    <p align = center>
     <img src = "img/VARIAVEIS_DE_AMBIENTE.png">
