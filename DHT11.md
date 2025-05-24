@@ -8,6 +8,8 @@
   </p>
 </kbd>
 
+---
+
 ## ▶️ | Principais características
 
 - Mede: Temperatura (0–50 °C) e umidade (20–90% UR)
