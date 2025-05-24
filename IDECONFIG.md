@@ -55,7 +55,7 @@ Para a ambientação do projeto foi utilizado o Visual Studio Code (VSCode) junt
     <img src = "img/MENU_EXTENSION_CONFIG_PATH.png">
   </p>
 
-- Atribua a cada um deles os respectivos caminhos e clique em configure tools. Os caminhos ser iguais ao da imagem considerando que os passos anteriores tenham sido cumpridos;
+- Atribua a cada um deles os respectivos caminhos e clique em **Configure Tools**. Os caminhos ser iguais ao da imagem considerando que os passos anteriores tenham sido cumpridos;
 
 - Após isso, espera-se que um conjunto de ferramentas sejam instaladas no seu sistema e um icone apareça na barra no canto esquerdo da ide;
     
