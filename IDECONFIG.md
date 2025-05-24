@@ -1,25 +1,25 @@
 # 📃 | Ambientação
 
-Para a ambientação do projeto foi utilizado o Visual Studio Code (VSCode) junto a extensão da Espressif disponibilizada no mesmo. Já que a programação da plataforma ESPRainMaker recebe mais suporte via ESP-IDF que, por sua vez, tem ambientação nativa no VSCode via extensão. Com isso, segue a instalação e configuração das ferramentas utilizadas:
+Para a ambientação do projeto foi utilizado o Visual Studio Code (VSCode) junto a extensão da Espressif disponibilizada no VSCode, já que a programação da plataforma ESP RainMaker recebe mais suporte via ESP-IDF. Com isso, segue a instalação e configuração das ferramentas utilizadas:
 
-  ## Observações:
+## ⚠️ | Observações:
   
-  - As ferramentas foram utilizadas no sistema operacional Windows, mais especificamente no Windows 11 nas versões disponíveis entre os meses de Março e Junho de 2025;
-  - Nenhum dos diretórios deve ter caracteres especiais;
-  - Os itens necessários para o funcionamento integral das ferramentas devem serintrinsicamente instalados/colocados nas pastas indicadas;
-    
-  Desse modo, o funcionamento do projeto é garantido tendo em vista as restrições acima em vigência no periodo de desenvolvimento citado.
+- As ferramentas foram utilizadas no sistema operacional Windows (mais especificamente no Windows 11) nas versões disponíveis entre os meses de Março e Junho de 2025
+- Nenhum dos diretórios deve ter caracteres especiais
+- Os itens necessários para o funcionamento integral das ferramentas devem ser intrinsicamente instalados/colocados nas pastas indicadas
+
+Desse modo, o funcionamento do projeto é garantido tendo em vista as restrições acima em vigência no período de desenvolvimento citado
 
 ## 0. Instalação do ESP-IDF 
 
-  Primeiramente, é necessário baixar o ESP-IDF que deve ser feito acessando o link : (https://dl.espressif.com/dl/esp-idf/). Utilizar preferencialmente o instalador online;
+Primeiramente, é necessário baixar o ESP-IDF pelo link https://dl.espressif.com/dl/esp-idf/ (utilizar preferencialmente o instalador online):
  
 <p align = center>
   <img src = "img/ESP-IDF_DOWNLOAD.png">
 </p>
   
-  Na instalação, selecione o diretorio de instalação como o seu  "DISCO LOCAL C". O resultado esperado é a pasta **Espressif** aparecer junto a outras como: "Arquivo Programas" ,"Arquivo Programas(x86)" e etc;
-  
+Na instalação, selecione o diretório de instalação como o seu **Disco Local (C:)**
+
 ## 1. Instalar o VSCode 
 
   A instalação da IDE não segue um criterio especifico para o seu funcionamento posteriormente. Assim, você pode simplesmente baixar pelo site: (https://code.visualstudio.com) a IDE e depois instalar onde achar oportuno.
