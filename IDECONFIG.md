@@ -99,5 +99,5 @@ Para a ambientação do projeto foi utilizado o Visual Studio Code (VSCode) junt
   
 
 
-## 6. Possíveis erros
+## 4. Possíveis erros
 Certifique-se de que o Windows ou seu sistema operacional reconhece a porta conectada do ESP32 (mais informações em https://www.reddit.com/r/esp32/comments/11pmedy/issue_uploading_to_esp32/)
