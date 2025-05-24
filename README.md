@@ -9,8 +9,8 @@ O projeto tem como principal foco o envio e coleta de dados a partir de um **ESP
 - **ESP32**: um sistema-em-um-chip com microcontrolador integrado, Wi-Fi e Bluetooth
 - **ESP RainMaker**: sistema IoT utilizado para monitoramento e controle de dados
 - **Visual Studio Code (IDE)**: ambiente de desenvolvimento
-- **Sensores**: DHT11, BMP2080
-- **Relay**: G3MB-202P
+- **Sensores**: DHT11, BMP280
+- **Outro**: G3MB-202P (relé), LDR (light dependent resistor)
 
 ---
 
