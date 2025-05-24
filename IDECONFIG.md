@@ -76,7 +76,7 @@ Visando o amplo funcionamento do projeto, os arquivos disponibilizados para down
   
 - Cole a pasta do projeto deste repositório em '**C:\Espressif\frameworks\esp-idf-v5.4.1\examples**'
 
-- Após, baixe o zip ['lib_sensors'](https://github.com/enzoaccioly1/projeto-integrador-I/raw/main/source/lib_sensors.rar) e descompacte-o em '**C:\Espressif\frameworks\esp-idf-v5.4.1\components**'
+- Após, baixe a pasta ['lib_sensors'](https://github.com/enzoaccioly1/projeto-integrador-I/raw/main/source/lib_sensors) e descompacte-a em '**C:\Espressif\frameworks\esp-idf-v5.4.1\components**'
 
 ### 🧩 | Implementação das variáveis de ambiente
 
