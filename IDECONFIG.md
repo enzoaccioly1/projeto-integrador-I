@@ -91,7 +91,7 @@ Para a ambientação do projeto foi utilizado o Visual Studio Code (VSCode) junt
     <img src = "img/VARIAVEIS_DE_AMBIENTE.png">
   </p>
 
-  - Agora faça 2 variaveis de <ins>sistema</ins> com os nomes IDF_PATH e RMAKER_PATH e adicione os seus diretórios correspondentes como na imagem acima;
+  - Agora faça 2 variaveis de <ins>sistema</ins> com os nomes **IDF_PATH** e **RMAKER_PATH** e adicione os seus diretórios correspondentes como na imagem acima;
   - Aplique as suas alterações e reinicie o seu computador.
 
   Com isso, o projeto está pronto para ser executado.
