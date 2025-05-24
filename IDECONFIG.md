@@ -81,7 +81,7 @@ Para a ambientação do projeto foi utilizado o Visual Studio Code (VSCode) junt
   
   - Neste repositório foi disponibilizado um zip do projeto chamado "RainMaker" para download (colocar aq o link), depois de descompactar pegue a pasta e coloque em : "C:\Espressif\frameworks\esp-idf-v5.4.1\examples";
 
-  - Após isso, baixe o zip "lib_sensors"(https://github.com/enzoaccioly1/projeto-integrador-I/raw/main/source/lib_sensors.zip), descompacte-o e pegue todas as pastas dentro da pasta de mesmo nome e coloque em: "C:\Espressif\frameworks\esp-idf-v5.4.1\components".
+  - Após isso, baixe o zip "lib_sensors"(https://github.com/enzoaccioly1/projeto-integrador-I/raw/main/source/lib_sensors.rar), descompacte-o e pegue todas as pastas dentro da pasta de mesmo nome e coloque em: "C:\Espressif\frameworks\esp-idf-v5.4.1\components".
 
   #### Implementação das variáveis de ambiente
 
