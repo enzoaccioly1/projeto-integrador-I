@@ -19,7 +19,7 @@ Desse modo, o funcionamento do projeto é garantido tendo em vista as restriçõ
 https://dl.espressif.com/dl/esp-idf (utilizar preferencialmente o instalador online):
  
 <p align = center>
-  <img src = "img/ESP_IDF_DOWNLOAD.png">
+  <img src = "img/ESP-IDF_download.png">
 </p>
   
 Na instalação, selecione como diretório de instalação o seu **Disco Local (C:)**
@@ -33,13 +33,13 @@ https://code.visualstudio.com
 - Na aba **Extensions** do VSCode, procurar por **ESP-IDF** e instalar:
 
 <p align = center>
-  <img src = "img/EXTENSAO_VSCODE.png">
+  <img src = "img/extensao_vscode.png">
 </p>
 
 - Após a instalação, uma aba de configuração deve aparecer. Caso contrário, busque por '**> ESP-IDF: Configure ESP-IDF Extension**' na barra de pesquisa:
 
 <p align = center>
-  <img src = "img/CONFIGURE_IDE.png">
+  <img src = "img/configure_IDE.png">
 </p>
 
 ### ⚙️ | Na aba de configuração
@@ -47,19 +47,19 @@ https://code.visualstudio.com
 - Selecione a opção **Advanced**:
 
 <p align = center>
-  <img src = "img/MENU_EXTENSION_CONFIG.png">
+  <img src = "img/menu_extension_config.png">
 </p>
 
 - Agora, atribua a cada uma das opções os respectivos caminhos e clique em '**Configure Tools**':
 
 <p align = center>
-  <img src = "img/MENU_EXTENSION_CONFIG_PATH.png">
+  <img src = "img/menu_extension_config_path.png">
 </p>
 
 - Após a configuração, sua IDE está pronta para utilizar as ferramentas de desenvolvimento padrão da Espressif no projeto:
     
 <p align = center>
-  <img src = "img/IDE_CONFIG_END.png">
+  <img src = "img/IDE_config_end.png">
 </p>
   
 ### ❓ | Ajuda
@@ -84,7 +84,7 @@ Visando o amplo funcionamento do projeto, os arquivos disponibilizados para down
 - Após, crie duas **variáveis de sistema** com os nomes **IDF_PATH** e **RMAKER_PATH** e adicione os seus diretórios correspondentes:
 
 <p align = center>
-  <img src = "img/VARIAVEIS_DE_AMBIENTE.png">
+  <img src = "img/variaveis_ambiente.png">
 </p>
 
 - Aplique as alterações e reinicie o computador
