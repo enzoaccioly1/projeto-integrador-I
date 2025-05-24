@@ -8,7 +8,7 @@
   </p>
 </kbd>
 
---
+---
 
 ## ▶️ | Principais características
 
