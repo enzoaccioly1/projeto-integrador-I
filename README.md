@@ -17,7 +17,7 @@ O projeto tem como principal foco o envio e coleta de dados a partir de um **ESP
 
 - [ESP32](ESP32.md)
 - [ESP RainMaker](ESPRainMaker.md)
-- [Arduino IDE (configuração)](Arduino.md)
+- [ESP-IDF(configuração)](IDECONFIG.md)
 - [DHT11](DHT11.md)
 - [MQ-2](MQ-2.md)
 
