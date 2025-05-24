@@ -67,7 +67,7 @@ Para a ambientação do projeto foi utilizado o Visual Studio Code (VSCode) junt
   
 ### Recomendação | ⏭️
 
-  A espressif tem um diretorio no github onde eles disponibilizam ,junto a um tutorial de instalação, uma explicação de cada atalho da extensão que você pode acessar neste link para mais dúvidas(https://github.com/espressif/vscode-esp-idf-extension/blob/master/README.md).
+  A espressif tem um diretorio no github onde eles disponibilizam ,junto a um tutorial de instalação, uma explicação de cada atalho da extensão que você pode acessar neste link para mais dúvidas https://github.com/espressif/vscode-esp-idf-extension/blob/master/README.md.
 
 #
 
