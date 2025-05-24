@@ -1,6 +1,6 @@
 # 📃 | Ambientação
 
-Para a ambientação do projeto foi utilizado o Visual Studio Code (VSCode) junto a extensão da Espressif disponibilizada no VSCode, já que a programação da plataforma ESP RainMaker recebe mais suporte via ESP-IDF. Com isso, segue a instalação e configuração das ferramentas utilizadas:
+Para a ambientação do projeto, foram utilizados o Visual Studio Code (VSCode) junto à extensão da Espressif disponibilizada no VSCode, já que a programação da plataforma ESP RainMaker recebe mais suporte via ESP-IDF. Com isso, segue a instalação e configuração das ferramentas utilizadas:
 
 ---
 
