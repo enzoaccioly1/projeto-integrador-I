@@ -1,7 +1,7 @@
 # 🌡️ | DHT11
 
 <kbd>
-  <img src = "img/dht11.jpg">
+  <img src = "img/dht11_pinout.jpg">
 </p>
   <p align = center>
     Pinagem DHT11
