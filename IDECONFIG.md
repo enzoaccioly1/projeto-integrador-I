@@ -91,7 +91,7 @@ Depois de instalar, uma aba de configuração deve aparecer. Caso não aconteça
     <img src = "img/VARIAVEIS_DE_AMBIENTE.png">
   </p>
 
-  Agora faça 2 variaveis de <u> sistema </u> com os nomes IDF_PATH e RMAKER_PATH e adicione os seus diretórios correspondentes comom na imagem.
+  Agora faça 2 variaveis de sistema com os nomes IDF_PATH e RMAKER_PATH e adicione os seus diretórios correspondentes comom na imagem.
   
 
 
