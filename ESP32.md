@@ -8,6 +8,8 @@
   </p>
 </kbd>
 
+--
+
 ## ▶️ | Principais características
 
 - Processador: Dual-core, até 240 MHz
