@@ -8,17 +8,17 @@ Para a ambientação do projeto foi utilizado o Visual Studio Code (VSCode) junt
   - Nenhum dos diretórios deve ter caracteres especiais;
   - Os itens necessários para o funcionamento integral das ferramentas devem intrinsicamente instalados/colocados nas pastas indicadas;
     
-  Desse modo, o funcionamento do projeto é garantido tendo em vista as restrições acima em vigência no periodo de desenvolvimento citado
+  Desse modo, o funcionamento do projeto é garantido tendo em vista as restrições acima em vigência no periodo de desenvolvimento citado.
 
 ## 0. Instalação do ESP-IDF 
 
-  Primeiramente, é necessário baixar o ESP-IDF que deve ser feito acessando o link : (https://dl.espressif.com/dl/esp-idf/). Utilizar preferencialmente o instalador online.
+  Primeiramente, é necessário baixar o ESP-IDF que deve ser feito acessando o link : (https://dl.espressif.com/dl/esp-idf/). Utilizar preferencialmente o instalador online;
  
 <p align = center>
   <img src = "img/ESP-IDF_DOWNLOAD.png">
 </p>
   
-  Na instalação, selecione o diretorio de instalação como o seu  "DISCO LOCAL C". O resultado esperado é a pasta "Espressif" aparecer junto a outras como: "Arquivo Programas" ,"Arquivo Programas(x86)" e etc.
+  Na instalação, selecione o diretorio de instalação como o seu  "DISCO LOCAL C". O resultado esperado é a pasta "Espressif" aparecer junto a outras como: "Arquivo Programas" ,"Arquivo Programas(x86)" e etc;
   
 ## 1. Instalar o VSCode 
 
@@ -26,13 +26,13 @@ Para a ambientação do projeto foi utilizado o Visual Studio Code (VSCode) junt
 
 ## 2. Instalação da extensão na IDE 
 
-Na aba "Extensions" do VSCode, procurar por "ESP-IDF" e instalar.
+- Na aba "Extensions" do VSCode, procurar por "ESP-IDF" e instalar;
 
 <p align = center>
   <img src = "img/EXTENSAO_VSCODE.png">
 </p>
 
-Depois de instalar, uma aba de configuração deve aparecer. Caso não aconteça, busque por ">Configure ESP-IDF Extension" na barra de pesquisa da IDE localizada no centro da barra superior da interface 
+- Depois de instalar, uma aba de configuração deve aparecer. Caso não aconteça, busque por ">Configure ESP-IDF Extension" na barra de pesquisa da IDE localizada no centro da barra superior da interface.
 
   <p align = center>
     <img src = "img/CONFIGURE_IDE.png">
@@ -43,21 +43,21 @@ Depois de instalar, uma aba de configuração deve aparecer. Caso não aconteça
 
   Agora na aba de configuração:
 
-  - Selecione a opção "Advanced"
+- Selecione a opção "Advanced";
 
   <p align = center>
     <img src = "img/MENU_EXTENSION_CONFIG.png">
   </p>
 
-  - Os itens que devem aparecer são estes:
+- Os itens que devem aparecer são estes:
 
   <p align = center>
     <img src = "img/MENU_EXTENSION_CONFIG_PATH.png">
   </p>
 
-  - Atribua a cada um deles os respectivos caminhos e clique em configure tools. Os caminhos ser iguais ao da imagem considerando que os passos anteriores tenham sido cumpridos.
+- Atribua a cada um deles os respectivos caminhos e clique em configure tools. Os caminhos ser iguais ao da imagem considerando que os passos anteriores tenham sido cumpridos;
 
-  - Após isso, espera-se que um conjunto de ferramentas sejam instaladas no seu sistema e um icone apareça na barra no canto esquerdo da ide.
+- Após isso, espera-se que um conjunto de ferramentas sejam instaladas no seu sistema e um icone apareça na barra no canto esquerdo da ide;
     
    <p align = center>
     <img src = "img/IDE_CONFIG_END.png">
@@ -67,7 +67,7 @@ Depois de instalar, uma aba de configuração deve aparecer. Caso não aconteça
   
 ### Recomendação | ⏭️
 
-  A espressif tem um diretorio no github onde eles disponibilizam ,junto a um tutorial de instalação, uma explicação de cada atalho da extensão que você pode acessar neste link para mais dúvidas(https://github.com/espressif/vscode-esp-idf-extension/blob/master/README.md)
+  A espressif tem um diretorio no github onde eles disponibilizam ,junto a um tutorial de instalação, uma explicação de cada atalho da extensão que você pode acessar neste link para mais dúvidas(https://github.com/espressif/vscode-esp-idf-extension/blob/master/README.md).
 
 #
 
@@ -79,19 +79,23 @@ Depois de instalar, uma aba de configuração deve aparecer. Caso não aconteça
 
   #### Alocação de pastas
   
-  Neste repositório foi disponibilizada um zip do projeto chamado "RainMaker" para download (colocar aq o link), depois de descompactar pegue a pasta e coloque em : "C:\Espressif\frameworks\esp-idf-v5.4.1\examples".
+  - Neste repositório foi disponibilizado um zip do projeto chamado "RainMaker" para download (colocar aq o link), depois de descompactar pegue a pasta e coloque em : "C:\Espressif\frameworks\esp-idf-v5.4.1\examples";
 
-  Após isso, baixe o zip "lib_sensors", descompacte-o e pegue todas as pastas dentro da pasta de mesmo nome e coloque em: "C:\Espressif\frameworks\esp-idf-v5.4.1\components".
+  - Após isso, baixe o zip "lib_sensors"(https://github.com/enzoaccioly1/projeto-integrador-I/raw/main/source/lib_sensors.zip), descompacte-o e pegue todas as pastas dentro da pasta de mesmo nome e coloque em: "C:\Espressif\frameworks\esp-idf-v5.4.1\components".
 
   #### Implementação das variáveis de ambiente
 
-  Acesse o menu de variáveis de ambiente via win+r e depois digite na aba que aparecer: sysdm.cpl ou pesquise na aba de pesquisa do windows. Posteriormente você vai poder visualizar as variaveis de sistema e usuário no seu computador.
+  - Acesse o menu de variáveis de ambiente via win+r e depois digite na aba que aparecer: sysdm.cpl ou pesquise na aba de pesquisa do windows. Posteriormente você vai poder visualizar as variaveis de sistema e usuário no seu computador;
   
    <p align = center>
     <img src = "img/VARIAVEIS_DE_AMBIENTE.png">
   </p>
 
-  Agora faça 2 variaveis de sistema com os nomes IDF_PATH e RMAKER_PATH e adicione os seus diretórios correspondentes comom na imagem.
+  - Agora faça 2 variaveis de "sistema" com os nomes IDF_PATH e RMAKER_PATH e adicione os seus diretórios correspondentes como na imagem acima;
+  - Aplique as suas alterações e reinicie o seu sistema.
+
+  Com isso, o projeto está pronto para ser executado.
+  
   
 
 
