@@ -22,6 +22,7 @@ O projeto tem como principal foco o envio e coleta de dados a partir de um **ESP
 - [DHT11](DHT11.md)
 - [BMP280](BMP280.md)
 - [G3MB-202P](G3MB-202P.md)
+- [LDR](LDR.md)
 
 ## 🪛 | Protótipo 
 
