@@ -4,14 +4,11 @@ Para a ambientação do projeto foi utilizado o Visual Studio Code (VSCode) junt
 
   ## Observações:
   
-  - ir colocando mais coisa aq
   - As ferramentas foram utilizadas no sistema operacional Windows, mais especificamente no Windows 11 nas versões disponíveis entre os meses de Março e Junho de 2025;
   - Nenhum dos diretórios deve ter caracteres especiais;
   - Os itens necessários para o funcionamento integral das ferramentas devem intrinsicamente instalados/colocados nas pastas indicadas;
     
   Desse modo, o funcionamento do projeto é garantido tendo em vista as restrições acima em vigência no periodo de desenvolvimento citado
-  
-
 
 ## 0. Instalação do ESP-IDF 
 
@@ -37,10 +34,50 @@ Na aba "Extensions" do VSCode, procurar por "ESP-IDF" e instalar.
   <img src = "img/EXTENSAO_VSCODE.png">
 </p>
 
----------------------------------------------------------------------------------------------
+Depois de instalar, uma aba de configuração deve aparecer. Caso não aconteça, busque por ">Configure ESP-IDF Extension" na barra de pesquisa da IDE localizada no centro da barra superior da interface 
+
+  <p align = center>
+    <img src = "img/CONFIGURE_IDE.png">
+  </p>
 
 
-## 2. Instalar a 'Board' do ESP32
+  ### Atenção nas proximas instruções! ⚠️  
+
+  Agora na aba de configuração:
+
+  - Selecione a opção "Advanced"
+
+  <p align = center>
+    <img src = "img/MENU_EXTENSION_CONFIG.png">
+  </p>
+
+  - Os itens que devem aparecer são estes:
+
+  <p align = center>
+    <img src = "img/MENU_EXTENSION_CONFIG_PATH.png">
+  </p>
+
+  - Atribua a cada um deles os respectivos caminhos e clique em configure tools. Os caminhos ser iguais ao da imagem considerando que os passos anteriores tenham sido cumpridos.
+
+  - Após isso, espera-se que um conjunto de ferramentas sejam instaladas no seu sistema e um icone apareça na barra no canto esquerdo da ide.
+
+    
+   <p align = center>
+    <img src = "img/IDE_CONFIG_END.png">
+  </p>
+    
+  Por fim, a sua IDE está pronta para utilizar as ferramentas de desenvolvimento padrão da espressif no projeto.
+
+### Recomendação | ⏭️
+
+  A espressif tem um diretorio no github onde eles disponibilizam ,junto a um tutorial de instalação, uma explicação de cada atalho da extensão que você pode acessar neste link para mais dúvidas(https://github.com/espressif/vscode-esp-idf-extension/blob/master/README.md)
+
+### Muita Atenção nas proximas instruções! ⚠️⚠️⚠️  
+
+  Visando o funcionamento amplo do projeto, os arquivos disponibilizados para download foram configurados para buscar bibliotecas e itens importantes com base em variáveis de sistema do seu computador. Sendo assim, qualquer descuitdo na configuração dessas variáveis implica ao não funcionamento do projeto!
+  
+## 3. Configuração para desenvolvimento do ESPRainMaker
+
 Pesquise por "**esp32**" e instale em Tools > Board > Board Manager
 
 ## 3. Selecionar a 'Board'
