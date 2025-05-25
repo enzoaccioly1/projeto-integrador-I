@@ -36,6 +36,7 @@
   - Selecione o dispositivo **(ESP-32)**
 
   - Compilar e dar flash na memória
+
  
  
 
