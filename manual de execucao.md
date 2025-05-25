@@ -25,6 +25,8 @@
   <img src = "img/OPEN_FOLDER.png">
   </p>
 
+- Ligue o esp com o seu computador usando o cabo micro-usb
+  
 - Verifique os campos destacados na barra de configuração no inferior da IDE:
 
   <p align = center>
@@ -36,19 +38,24 @@
   - Selecione o dispositivo **(ESP-32)**
 
   - Compilar e dar flash na memória
-
  
+    Para isso, clique no simbolo abaixo de descrição **Build,flash e monitor** e acompanhe esses processos via terminal na IDE.
+    
+    <p align = center>
+    <img src = "img/COMPILEFLASH.png">
+    </p>
  
-
-  Para isso, clique no simbolo abaixo de descrição **Build,flash e monitor**
+    *Note que quando for iniciado o flash no dispositivo será necessário pressionar o botão boot do seu Esp-32 por 2 segundos para permitir esse processo*
   
+# 2. Anexar os dispostivos com o app
 
-pic
-
-Acompanhe o processo e se atente que, quando começar o processo de flash, deve-se segurar o botão **boot** do seu **Esp-32** por uns 2 segundos para permitir a gravação
+  
+  -Entre o app
 
 
 # n°. Possíveis erros:
+
+- Nos testes feitos a IDE sempre reconheceu a porta do esp-32 no computador automaticamente, mas caso isso não ocorra, tente selecionar manualmente na barra de configuração ou acesse: colocar link do bizu
 
 
 
