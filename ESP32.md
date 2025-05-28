@@ -16,4 +16,4 @@
 - Memória: ~520 KB SRAM + suporte a Flash externa
 - Conectividade: Wi-Fi + Bluetooth (BLE e Clássico) integrados
 - Interfaces: GPIOs multifuncionais, UART, SPI, I2C, PWM, ADC, DAC
-- [Referência](https://es.wikipedia.org/wiki/ESP32)
+- [Referência](https://pt.wikipedia.org/wiki/ESP32)
