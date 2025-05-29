@@ -7,9 +7,6 @@
 
 ### Esquemático da montagem 
 
-<p align = center>
-  <img src = "img/PROTOTIPO_SIMULADO.png">
-</p>
 
 ## :acha um emoji ae | Pré-requisitos para a implementação do software:
   
