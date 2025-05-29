@@ -1,17 +1,19 @@
-## acha um emoji ae | Pré-requisitos para a implementação do hardware:
+# 🔐 | Pré-requisitos (Hardware)
 
-- Conjunto de hardware especificado no projeto (ESP-32, sensores e rele);
-- Chave Phillips;
-- Fios;
-- Fonte de 5v;
+- Conjunto de hardware especificado no projeto (ESP32, sensores e relê)
+- Chave Philips
+- Fios
+- Fonte de 5V
 
-### Esquemático da montagem 
+## Esquemático da montagem 
 
 <p align = center>
-  <img src = "img/PROTOTIPOSIMULADO.png">
+  <img src = "img/PROTOTIPO_SIMULADO.png">
 </p>
 
-## :acha um emoji ae | Pré-requisitos para a implementação do software:
+---
+
+# 🔏 | Pré-requisitos (Software):
   
 - Ter realizado o [tutorial de configuração da IDE](https://github.com/enzoaccioly1/projeto-integrador-I/blob/main/IDECONFIG.md?plain=1);
 - Cabo micro-usb;
