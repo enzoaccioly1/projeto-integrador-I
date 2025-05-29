@@ -1,4 +1,4 @@
-# 🔐 | Pré-requisitos (Hardware)
+## 🔐 | Pré-requisitos (Hardware)
 
 - Conjunto de hardware especificado no projeto (ESP32, sensores e relê)
 - Chave Philips
@@ -13,7 +13,7 @@
 
 ---
 
-# 🔏 | Pré-requisitos (Software):
+## 🔏 | Pré-requisitos (Software):
   
 - Ter realizado o [tutorial de configuração da IDE](IDECONFIG.md)
 - Cabo USB compatível com seu ESP32
@@ -53,6 +53,10 @@ Para isso, clique no símbolo abaixo e acompanhe esses processos via terminal na
 </p>
 
 - Escaneie o QR Code gerado no terminal do ESP-IDF ou, caso prefira conectar na rede Bluetooth (BLE), utilize a senha '12345678'
+
+<p align = center>
+  <img src = "" width="25%" height="25%">
+</p>
 
 ---
 
