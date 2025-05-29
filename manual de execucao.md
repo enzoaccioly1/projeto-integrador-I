@@ -28,7 +28,6 @@
   </p>
 
 - Ligue o ESP32 em seu computador utilizando o cabo USB
-  
 - Verifique os campos destacados na barra de configuração no canto inferior da IDE:
 
 <p align = center>
@@ -36,9 +35,7 @@
 </p>
 
 - Agora, selecione o método de flash como **UART**
-    
 - Selecione seu dispositivo **ESP32** e modelo corretamente
-
 - Compile e grave na memória
  
 Para isso, clique no símbolo abaixo e acompanhe esses processos via terminal na IDE:
@@ -49,15 +46,15 @@ Para isso, clique no símbolo abaixo e acompanhe esses processos via terminal na
   
 # 2. Cadastro de dispositivos no ESP RainMaker
 
-  
-  -Entre o app
+- Dentro do app, faça login e selecione '**Add Device**' (ou clique no '+' no canto superior direito)
+- Escaneie o QR Code gerado no terminal do ESP-IDF ou, caso prefira conectar na rede Bluetooth (BLE), utilize o prefixo '' e senha ''
 
 ---
 
 # ❌ | Possíveis erros:
 
 - Caso o processo de gravação na memória persistir em 'Connecting...', pressione o botão de 'BOOT' do seu ESP32 por poucos segundos
-- Caso a porta de comunicação do ESP32 não seja reconhecida, [clique aqui](https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers?tab=downloads) e instale o driver da porta ([mais informações](https://www.reddit.com/r/esp32/comments/11pmedy/issue_uploading_to_esp32))
+- Caso a porta de comunicação do ESP32 não seja reconhecida, [clique aqui](https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers?tab=downloads) e instale o driver da porta ([mais informações aqui](https://www.reddit.com/r/esp32/comments/11pmedy/issue_uploading_to_esp32))
 
 
 
