@@ -8,7 +8,7 @@
 ## Esquemático da montagem 
 
 <p align = center>
-  <img src = "img/PROTOTIPO_SIMULADO.png">
+  <img src = "img/PROTOTIPOSIMULADO.png">
 </p>
 
 ---
