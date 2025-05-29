@@ -19,6 +19,7 @@ O projeto tem como principal foco o envio e coleta de dados a partir de um **ESP
 - [ESP32](ESP32.md)
 - [ESP-IDF (configuração)](IDECONFIG.md)
 - [ESP RainMaker](ESPRainMaker.md)
+- [Manual de Implementação](MANUAL.md)
 - [BMP280](BMP280.md)
 - [DHT11](DHT11.md)
 - [G3MB-202P](G3MB-202P.md)
