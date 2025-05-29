@@ -8,7 +8,7 @@
 ## Esquemático da montagem 
 
 <p align = center>
-  <img src = "img/PROTOTIPOSIMULADO.png">
+  <img src = "img/prototipo_simulado.png">
 </p>
 
 ---
@@ -24,14 +24,14 @@
 - Abrir a pasta do projeto 
 
  <p align = center>
-  <img src = "img/OPEN_FOLDER.png">
+  <img src = "img/open_folder.png">
   </p>
 
 - Ligue o ESP32 em seu computador utilizando o cabo USB
 - Verifique os campos destacados na barra de configuração no canto inferior da IDE:
 
 <p align = center>
-  <img src = "img/BARRA_DE_CONFIGURACAO.png">
+  <img src = "img/barra_de_config.png">
 </p>
 
 - Agora, selecione o método de flash como **UART**
@@ -41,7 +41,7 @@
 Para isso, clique no símbolo abaixo e acompanhe esses processos via terminal na IDE:
     
 <p align = center>
-  <img src = "img/COMPILEFLASH.png">
+  <img src = "img/compile_flash_monitor.png">
 </p>
   
 ## 2. Cadastro de dispositivos no ESP RainMaker
