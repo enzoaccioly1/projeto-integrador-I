@@ -66,7 +66,7 @@ Para isso, clique no símbolo abaixo e acompanhe esses processos via terminal na
 
 ---
 
-# ❌ | Possíveis erros:
+## ❌ | Possíveis erros:
 
 - Caso o processo de gravação na memória persistir em 'Connecting...', pressione o botão de 'BOOT' do seu ESP32 por poucos segundos
 - Caso a porta de comunicação do ESP32 não seja reconhecida, [clique aqui](https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers?tab=downloads) e instale o driver da porta ([mais informações aqui](https://www.reddit.com/r/esp32/comments/11pmedy/issue_uploading_to_esp32))
