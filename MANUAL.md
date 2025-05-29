@@ -49,7 +49,7 @@ Para isso, clique no símbolo abaixo e acompanhe esses processos via terminal na
 - Dentro do app, faça login e selecione '**Add Device**' (ou clique no '+' no canto superior direito):
 
 <p align = center>
-  <img src = "img/add_device.png", size = 200>
+  <img src = "img/add_device.png", size = 50%>
 </p>
 
 - Escaneie o QR Code gerado no terminal do ESP-IDF ou, caso prefira conectar na rede Bluetooth (BLE), utilize a senha '12345678'
