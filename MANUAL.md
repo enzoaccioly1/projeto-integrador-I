@@ -1,6 +1,6 @@
 # 💻 | Manual de implementação
 
-Para a implementação do projeto, foram utilizadas as seguintes ferramentas e configurações:
+Para a implementação do projeto, foram utilizadas os seguintes conjuntos de ferramentas e configurações:
 
 ---
 
