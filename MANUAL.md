@@ -52,7 +52,7 @@ Para isso, clique no símbolo abaixo e acompanhe esses processos via terminal na
   <img src = "img/add_device.png">
 </p>
 
-- Escaneie o QR Code gerado no terminal do ESP-IDF ou, caso prefira conectar na rede Bluetooth (BLE), utilize o prefixo '' e senha ''
+- Escaneie o QR Code gerado no terminal do ESP-IDF ou, caso prefira conectar na rede Bluetooth (BLE), utilize a senha '12345678'
 
 ---
 
