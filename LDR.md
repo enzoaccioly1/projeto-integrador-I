@@ -1,7 +1,7 @@
 # 🔦 | LDR
 
 <kbd>
-  <img src = "img/LDR.png">
+  <img src = "img/ldr.png">
 </p>
   <p align = center>
     Conexão LDR
