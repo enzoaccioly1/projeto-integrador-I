@@ -4,7 +4,7 @@
   <img src = "img/ldr.png">
 </p>
   <p align = center>
-    Conexão LDR
+    LDR
   </p>
 </kbd>
 
