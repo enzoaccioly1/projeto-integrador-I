@@ -15,11 +15,11 @@
 
 # 🔏 | Pré-requisitos (Software):
   
-- Ter realizado o [tutorial de configuração da IDE](IDECONFIG.MD);
-- Cabo micro-usb;
-- App (ESPRainMaker) instalado no seu celular;
+- Ter realizado o [tutorial de configuração da IDE](IDECONFIG.md)
+- Cabo Micro USB
+- App (ESP RainMaker) instalado em seu celular
 
-# 1. Gravar o software no microcontrolador
+## 1. Gravar o software no microcontrolador
 
 - Abrir a pasta do projeto 
 
