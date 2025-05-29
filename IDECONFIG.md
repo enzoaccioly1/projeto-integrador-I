@@ -89,6 +89,8 @@ Visando o amplo funcionamento do projeto, os arquivos disponibilizados para down
 
 - Aplique as alterações e reinicie o computador
 
-## 4. Possíveis erros
+---
+
+## ❌ | Possíveis erros
 
 - A definir
