@@ -1,3 +1,9 @@
+# 💻 | Manual de implementação
+
+Para a implementação do projeto, foram utilizadas as seguintes ferramentas e configurações:
+
+---
+
 ## 🔐 | Pré-requisitos (Hardware)
 
 - Conjunto de hardware especificado no projeto (ESP32, sensores e relê)
