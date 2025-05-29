@@ -15,7 +15,7 @@
 
 # 🔏 | Pré-requisitos (Software):
   
-- Ter realizado o [tutorial de configuração da IDE](https://github.com/enzoaccioly1/projeto-integrador-I/blob/main/IDECONFIG.md?plain=1);
+- Ter realizado o [tutorial de configuração da IDE](IDECONFIG.MD);
 - Cabo micro-usb;
 - App (ESPRainMaker) instalado no seu celular;
 
