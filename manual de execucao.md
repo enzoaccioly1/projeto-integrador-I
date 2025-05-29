@@ -16,7 +16,7 @@
 # 🔏 | Pré-requisitos (Software):
   
 - Ter realizado o [tutorial de configuração da IDE](IDECONFIG.md)
-- Cabo Micro USB
+- Cabo USB compatível com seu ESP32
 - App (ESP RainMaker) instalado em seu celular
 
 ## 1. Gravar o software no microcontrolador
@@ -27,37 +27,37 @@
   <img src = "img/OPEN_FOLDER.png">
   </p>
 
-- Ligue o esp com o seu computador usando o cabo micro-usb
+- Ligue o ESP32 em seu computador utilizando o cabo USB
   
-- Verifique os campos destacados na barra de configuração no inferior da IDE:
+- Verifique os campos destacados na barra de configuração no canto inferior da IDE:
 
-  <p align = center>
+<p align = center>
   <img src = "img/BARRA_DE_CONFIGURACAO.png">
-  </p>
+</p>
 
-  - Selecionar o método de flash como **UART**
+- Agora, selecione o método de flash como **UART**
     
-  - Selecione o dispositivo **(ESP-32)**
+- Selecione seu dispositivo **ESP32** e modelo corretamente
 
-  - Compilar e dar flash na memória
+- Compile e grave na memória
  
-    Para isso, clique no simbolo abaixo de descrição **Build,flash e monitor** e acompanhe esses processos via terminal na IDE.
+Para isso, clique no símbolo abaixo e acompanhe esses processos via terminal na IDE:
     
-    <p align = center>
-    <img src = "img/COMPILEFLASH.png">
-    </p>
- 
-    *Note que quando for iniciado o flash no dispositivo será necessário pressionar o botão boot do seu Esp-32 por 2 segundos para permitir esse processo*
+<p align = center>
+  <img src = "img/COMPILEFLASH.png">
+</p>
   
-# 2. Anexar os dispostivos com o app
+# 2. Cadastro de dispositivos no ESP RainMaker
 
   
   -Entre o app
 
+---
 
-# n°. Possíveis erros:
+# ❌ | Possíveis erros:
 
-- Nos testes feitos a IDE sempre reconheceu a porta do esp-32 no computador automaticamente, mas caso isso não ocorra, tente selecionar manualmente na barra de configuração ou acesse: colocar link do bizu
+- Caso o processo de gravação na memória persistir em 'Connecting...', pressione o botão de 'BOOT' do seu ESP32 por poucos segundos
+- Caso a porta de comunicação do ESP32 não seja reconhecida, [clique aqui](https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers?tab=downloads) e instale o driver da porta ([mais informações](https://www.reddit.com/r/esp32/comments/11pmedy/issue_uploading_to_esp32))
 
 
 
