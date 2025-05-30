@@ -64,11 +64,6 @@ Após a conclusão desse processo, você também poderá acompanhar a comunicaç
 </p>
 
 - Escaneie o QR Code gerado no terminal do ESP-IDF ou, caso prefira conectar na rede Bluetooth (BLE), utilize a senha '12345678'
-
-<p align = center>
-  <img src = "" width="25%" height="25%">
-</p>
-
 ---
 
 ## ❌ | Possíveis erros:
