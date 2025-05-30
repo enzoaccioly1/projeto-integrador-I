@@ -16,21 +16,21 @@ O projeto tem como principal foco o envio e coleta de dados a partir de um **ESP
 
 ## 📖 | Documentação
 
-🌐**Plataforma**:
+### 🌐 | Plataforma:
 - [ESP RainMaker](ESPRainMaker.md)
   
-⚙️ **Hardware**:
+### ⚙️ | Hardware:
 - [BMP280](BMP280.md)
 - [DHT11](DHT11.md)
 - [G3MB-202P](G3MB-202P.md)
 - [LDR](LDR.md)
 - [ESP32](ESP32.md)
 
-💻 **Tutoriais**:
+### 💻 | Tutoriais:
 - [ESP-IDF (configuração)](IDECONFIG.md)
 - [Manual de Implementação](MANUAL.md)
 
-#
+---
 
 ## 🪛 | Protótipo 
 
