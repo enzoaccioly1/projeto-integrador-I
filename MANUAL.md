@@ -9,12 +9,11 @@ Para a implementação do projeto, foram utilizadas os seguintes conjuntos de fe
 - Conjunto de hardware especificado no projeto (ESP32, sensores e relê)
 - Chave Philips
 - Fios
-- Fonte de 5V
 
 ## Esquemático da montagem 
 
 <p align = center>
-  <img src = "img/prototipo_simulado.png">
+  <img src = "img/prototiposimulado.png">
 </p>
 
 ---
