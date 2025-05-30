@@ -48,7 +48,13 @@ Para isso, clique no símbolo abaixo e acompanhe esses processos via terminal na
 <p align = center>
   <img src = "img/compile_flash_monitor.png">
 </p>
-  
+
+Após a conclusão desse processo, você também poderá acompanhar a comunicação do sistema via terminal da seguinte forma:
+
+<p align = center>
+  <img src = "ouput_sensors.png">
+</p>
+
 ## 2. Cadastro de dispositivos no ESP RainMaker
 
 - Dentro do app, faça login e selecione '**Add Device**' (ou clique no '+' no canto superior direito):
