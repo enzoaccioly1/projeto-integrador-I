@@ -27,4 +27,6 @@ O projeto tem como principal foco o envio e coleta de dados a partir de um **ESP
 
 ## 🪛 | Protótipo 
 
-- Imagem
+</p>
+  <img src = "img/prototipo.jpg">
+</p>
