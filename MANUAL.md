@@ -18,7 +18,7 @@ Para a implementação do projeto, foram utilizadas os seguintes conjuntos de fe
 
 ### ⚠️ Atente-se com a manipulação do relê
 
-Para eventuais dúvidas [clique aqui](https://github.com/enzoaccioly1/projeto-integrador-I/blob/main/G3MB-202P.md)
+Para eventuais dúvidas, [clique aqui](G3MB-202P.md)
 
 ## 🔏 | Pré-requisitos (Software):
   
