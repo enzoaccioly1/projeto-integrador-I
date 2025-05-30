@@ -30,6 +30,7 @@ O projeto tem como principal foco o envio e coleta de dados a partir de um **ESP
 - [ESP-IDF (configuração)](IDECONFIG.md)
 - [Manual de Implementação](MANUAL.md)
 
+#
 
 ## 🪛 | Protótipo 
 
