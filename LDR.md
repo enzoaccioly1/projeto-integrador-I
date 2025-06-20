@@ -5,7 +5,7 @@
     <img src = "img/ldr.png" widht = 500px height = 300px>
   </p>
     <p align = center>
-      LDR
+      Light-dependent resistor
     </p>
   </kbd>
 </div>
@@ -14,11 +14,12 @@
 
 ## 💻 | Saída em terminal
 
-  <div align = center>
+<div align = center>
   <img src = "img/saida_ldr.png">
-  </div>
+</div>
   
---- 
+---
+
 ## ▶️ | Principais características
 
 - Tensão máxima: 150VDC
