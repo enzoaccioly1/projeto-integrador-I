@@ -10,7 +10,7 @@
 
 ---
 
-## 💻 | Saida terminal
+## 💻 | Saida em terminal
 
 <div align = center>
   <img src = "img/saida_dht.png">
