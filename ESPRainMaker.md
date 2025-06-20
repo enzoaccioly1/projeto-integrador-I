@@ -14,11 +14,10 @@ ESP RainMaker é um sistema IoT de baixo custo com o backend em nuvem construíd
   </p>
 </kbd>
 
----
+### 1. AIoT Device: 
+O dispositivo AIoT (ex.: lâmpada inteligente, ar-condicionado) conecta-se à nuvem por meio de redes sem fio, enviando e recebendo dados.
 
-1 - AIoT Device: O dispositivo AIoT (ex.: lâmpada inteligente, ar-condicionado) conecta-se à nuvem por meio de redes sem fio, enviando e recebendo dados.
-
-2 - AWS Cloud Backend:
+### 2. AWS Cloud Backend:
 
   O backend em nuvem é composto por:
 
@@ -32,7 +31,7 @@ ESP RainMaker é um sistema IoT de baixo custo com o backend em nuvem construíd
 
   - Web Hooks e OAuth2 Plug: Mecanismos para integração com aplicações externas e autenticação segura de usuários.
 
-3 - Integrações e Interfaces:
+### 3. Integrações e Interfaces:
 
   - Voice Assistant: Controle e monitoramento dos dispositivos por meio de assistentes de voz (ex.: Alexa, Google Assistant).
 
@@ -41,7 +40,6 @@ ESP RainMaker é um sistema IoT de baixo custo com o backend em nuvem construíd
   - Mobile APP: Aplicativo móvel para configuração, controle e monitoramento remoto.
 
   - Applications e User Management: Aplicações externas e sistema de gerenciamento de usuários, permitindo administração de permissões, autenticação e integração com outros sistemas.
-
 
 ---
 
