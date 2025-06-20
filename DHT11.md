@@ -10,6 +10,13 @@
 
 ---
 
+## 💻 | Saida terminal
+
+<div align = center>
+  <img src = "img/saida_dht.png">
+</div>
+  
+--- 
 ## ▶️ | Principais características
 
 - Mede: Temperatura (0–50 °C) e umidade (20–90% UR)
