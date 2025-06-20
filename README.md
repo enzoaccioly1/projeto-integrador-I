@@ -2,6 +2,12 @@
 
 O projeto se trata de um sistema de automação doméstico e tem como principal foco o envio e coleta de dados a partir de um **ESP32** e sensores, utilizando o sistema **ESP RainMaker** como meio de controle e monitoramento.
 
+<div align="center">
+  </p>
+    <img src = "img/rainmaker-acrhitecture.png"  width="600" height="350" align = center>
+  </p>
+</div>
+
 ---
 
 ## 🛠️ | Componentes
