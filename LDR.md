@@ -1,15 +1,23 @@
 # 🔦 | LDR
 
-<kbd>
-  <img src = "img/ldr.png">
-</p>
-  <p align = center>
-    LDR
+<div align = center>  
+  <kbd>
+    <img src = "img/ldr.png" widht = 500px height = 300px>
   </p>
-</kbd>
-
+    <p align = center>
+      LDR
+    </p>
+  </kbd>
+</div>
 ---
 
+## 💻 | Saida em terminal
+
+  <div align = center>
+  <img src = "img/saida_ldr.png">
+  </div>
+  
+--- 
 ## ▶️ | Principais características
 
 - Tensão máxima: 150VDC
