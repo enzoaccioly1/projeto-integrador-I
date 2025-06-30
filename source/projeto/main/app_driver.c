@@ -68,7 +68,7 @@ static void app_sensor_update(TimerHandle_t handle)
 
     if (dht_read_float_data(SENSOR_TYPE, CONFIG_EXAMPLE_DHT11_GPIO, &g_humidity, NULL) == ESP_OK)
     {
-        printf("Humidity: %.1f%% Temp: %.1fC\n", g_humidity, g_temperature);
+        printf("Umidade: %.1f%% Temperatura: %.1fC\n", g_humidity, g_temperature);
     }
     else
     {
