@@ -53,9 +53,11 @@ Para isso, clique no símbolo abaixo e acompanhe esses processos via terminal na
 
 Após a conclusão desse processo, você também poderá acompanhar a comunicação do sistema via terminal da seguinte forma:
 
-<p align = center>
-  <img src = "img/saidasensores.png">
-</p>
+<div align="center">
+  </p>
+    <img src = "img/saidasensores.png"  width="500" height="125" align = center>
+  </p>
+</div>
 
 ## 2. Cadastro de dispositivos no ESP RainMaker
 
