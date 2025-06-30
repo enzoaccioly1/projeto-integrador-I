@@ -55,7 +55,7 @@ Após a conclusão desse processo, você também poderá acompanhar a comunicaç
 
 <div align="center">
   </p>
-    <img src = "img/saidasensores.png"  width="500" height="125" align = center>
+    <img src = "img/saidasensores_.png" align = center>
   </p>
 </div>
 
