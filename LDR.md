@@ -15,7 +15,7 @@
 ## 💻 | Saída em terminal
 
 <div align = center>
-  <img src = "img/saida_ldr.png">
+  <img src = "img/saida_ldr_.png">
 </div>
   
 ---
