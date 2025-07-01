@@ -75,10 +75,10 @@ Visando o amplo funcionamento do projeto, os arquivos disponibilizados para down
 ### 📁 | Alocação de pastas
 
 
-- Primeiro, baixe o [git](https://git-scm.com/downloads)
-- Após, rode o comando 'git clone https://github.com/espressif/esp-rainmaker' para baixar a pasta do ESP RainMaker no diretório desejado
+- Primeiro, baixe e instale o [git](https://git-scm.com/downloads)
+- Após, rode o comando 'git clone https://github.com/espressif/esp-rainmaker' em seu cmd para baixar a pasta do ESP RainMaker no diretório desejado
 - Cole a pasta ['projeto'](source/projeto) deste repositório em '**C:\Espressif\frameworks\esp-idf-v5.4.1\examples\esp-rainmaker\examples**'
-- Após, baixe a pasta ['lib_sensors'](source/lib_sensors) e descompacte-a em '**C:\Espressif\frameworks\esp-idf-v5.4.1\components**'
+- Após, baixe a pasta ['lib_sensors'](source/lib_sensors) e cole-a em '**C:\Espressif\frameworks\esp-idf-v5.4.1\components**'
 
 ### 🧩 | Implementação das variáveis de ambiente
 
