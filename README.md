@@ -40,6 +40,18 @@ O projeto se trata de um sistema de automação doméstico e tem como principal 
 
 ## 🪛 | Protótipo 
 
-</p>
+<kbd>
   <img src = "img/prototipo.jpg">
 </p>
+  <p align = center>
+    Protótipo na Protoboard
+  </p>
+</kbd>
+
+<kbd>
+  <img src = "img/prototipo_pcb.jpg">
+</p>
+  <p align = center>
+    Protótipo na PCB Universal
+  </p>
+</kbd>
