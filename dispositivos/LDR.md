@@ -2,7 +2,7 @@
 
 <div align = center>  
   <kbd>
-    <img src = "img/ldr.png" widht = 500px height = 300px>
+    <img src = "/img/ldr.png" widht = 500px height = 300px>
   </p>
     <p align = center>
       Light-dependent resistor
@@ -15,7 +15,7 @@
 ## 💻 | Saída em terminal
 
 <div align = center>
-  <img src = "img/saida_ldr_.png">
+  <img src = "/img/saida_ldr_.png">
 </div>
   
 ---
