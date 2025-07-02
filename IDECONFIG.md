@@ -82,7 +82,7 @@ Visando o amplo funcionamento do projeto, os arquivos disponibilizados para down
   git clone https://github.com/espressif/esp-rainmaker
   ```
 - Cole a pasta ['projeto'](source/projeto) deste repositório em '**C:\Espressif\frameworks\esp-idf-v5.4.1\examples\esp-rainmaker\examples**'
-- Cole também as pastas dentro de ['lib_sensors'](source/lib_sensors) (dht, bmp280) deste repositório em '**C:\Espressif\frameworks\esp-idf-v5.4.1\components**'
+- Cole também as pastas dentro de ['lib_sensors'](source/lib_sensors) (dht, bmp280, i2cdev, esp_idf_lib_helpers) deste repositório em '**C:\Espressif\frameworks\esp-idf-v5.4.1\components**'
 
 ### 🧩 | Implementação das variáveis de ambiente
 
