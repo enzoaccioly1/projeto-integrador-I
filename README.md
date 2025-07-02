@@ -48,7 +48,6 @@ O projeto se trata de um sistema de automação doméstico e tem como principal 
   </p>
 </kbd>
 
-
 <kbd>
   <img src = "img/prototipo_pcb.jpg">
 </p>
