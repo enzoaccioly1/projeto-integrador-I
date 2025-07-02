@@ -1,7 +1,7 @@
 # 🌡️ | DHT11
 
 <kbd>
-  <img src = "img/dht11_pinout.jpg">
+  <img src = "/img/dht11_pinout.jpg">
 </p>
   <p align = center>
     Pinagem DHT11
@@ -13,7 +13,7 @@
 ## 💻 | Saída em terminal
 
 <div align = center>
-  <img src = "img/saida_dht.png">
+  <img src = "/img/saida_dht.png">
 </div>
   
 --- 
