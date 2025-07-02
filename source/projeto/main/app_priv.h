@@ -2,6 +2,10 @@
 #include <stdint.h>
 #include <stdbool.h>
 
+#define ESP_RMAKER_PARAM_HUMIDITY       "esp.param.humidity"
+#define ESP_RMAKER_PARAM_PRESSURE       "esp.param.pressure"
+#define ESP_RMAKER_PARAM_LUMINOSITY     "esp.param.luminosity"
+
 #define REPORTING_PERIOD 10 // segundos
 #define DEFAULT_POWER false
 
