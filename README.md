@@ -38,7 +38,7 @@ O projeto se trata de um sistema de automação doméstico e tem como principal 
 
 ---
 
-## 🪛 | Protótipo 
+## 🪛 | Protótipos
 
 <kbd>
   <img src = "img/prototipo.jpg">
@@ -47,6 +47,7 @@ O projeto se trata de um sistema de automação doméstico e tem como principal 
     Protótipo na Protoboard
   </p>
 </kbd>
+
 
 <kbd>
   <img src = "img/prototipo_pcb.jpg">
