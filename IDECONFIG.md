@@ -82,11 +82,7 @@ Visando o amplo funcionamento do projeto, os arquivos disponibilizados para down
   git clone https://github.com/espressif/esp-rainmaker
   ```
 - Cole a pasta ['projeto'](source/projeto) deste repositório em '**C:\Espressif\frameworks\esp-idf-v5.4.1\examples\esp-rainmaker\examples**'
-- Agora, rode o seguinte comando em seu cmd para baixar a pasta das **Bibliotecas de Sensores** no diretório '**C:\Espressif\frameworks\esp-idf-v5.4.1\components**':
-
-  ```bash
-  git clone https://github.com/UncleRus/esp-idf-lib
-  ``` 
+- Cole também a pasta ['lib_sensors'](source/lib_sensors) deste repositório em '**C:\Espressif\frameworks\esp-idf-v5.4.1\components**'
 
 ### 🧩 | Implementação das variáveis de ambiente
 
@@ -98,9 +94,3 @@ Visando o amplo funcionamento do projeto, os arquivos disponibilizados para down
 </p>
 
 - Aplique as alterações e reinicie o computador
-
----
-
-## ❌ | Possíveis erros
-
-- A definir
