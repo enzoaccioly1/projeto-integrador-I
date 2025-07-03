@@ -13,7 +13,7 @@
 ## 💻 | Saída em terminal
 
 <div align = center>
-  <img src = "/img/saida_dht.png">
+  <img src = "/img/saida_dht_.png">
 </div>
   
 --- 
