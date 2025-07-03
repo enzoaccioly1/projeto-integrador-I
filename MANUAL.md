@@ -13,7 +13,7 @@ Para a implementação do projeto, foram utilizadas os seguintes conjuntos de fe
 ## Esquemático da montagem 
 
 <p align = center>
-  <img src = "img/prototipo__simulado.png">
+  <img src = "img/circuito.png">
 </p>
 
 ### ⚠️ Atente-se com a manipulação do relê
