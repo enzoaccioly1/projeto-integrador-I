@@ -6,7 +6,7 @@
 #define ESP_RMAKER_PARAM_PRESSURE       "esp.param.pressure"
 #define ESP_RMAKER_PARAM_LUMINOSITY     "esp.param.luminosity"
 
-#define REPORTING_PERIOD 10 // segundos
+#define REPORTING_PERIOD 20 // segundos
 #define DEFAULT_POWER false
 
 extern esp_rmaker_device_t *temp_sensor_device;
