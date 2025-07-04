@@ -55,3 +55,9 @@ O projeto se trata de um sistema de automação doméstico e tem como principal 
     Protótipo na PCB Universal
   </p>
 </kbd>
+
+---
+
+## 📽️ | Apresentação Final
+
+[Clique aqui](https://drive.google.com/file/d/1EHT3dIhuk52Il3clyIuTFqCIpXvBGXvd/view?usp=sharing)
